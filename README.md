@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Roland Oechslin! ⚡
 
 <!--
 **rolandoechslin/rolandoechslin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
