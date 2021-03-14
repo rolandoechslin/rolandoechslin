@@ -1,6 +1,6 @@
 ### Hello folks ⚡
 
-My name is Roland Oechslin and I'm a senior software SharePoint/Microsoft 365 developer. I'm from switzeland, living in Bern and currently working for [Garaio Labs](https://www.garaio.com/)
+My name is Roland Oechslin and I'm a Senior Software SharePoint/Microsoft 365 Developer. I'm from switzerland, living in Bern and currently working for [Garaio Labs](https://www.garaio.com/)
 
 <!--
 **rolandoechslin/rolandoechslin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
