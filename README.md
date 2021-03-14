@@ -1,4 +1,6 @@
-### Hey, I'm Roland Oechslin! ⚡
+### Hello folks ⚡
+
+My name is Roland Oechslin and I'm a software O365/SharePoint developer. I'm from switzeland, living in Bern and cirrently working for [Garaio Labs](https://www.garaio.com/)
 
 <!--
 **rolandoechslin/rolandoechslin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
