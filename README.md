@@ -1,6 +1,6 @@
 ### Hello folks ⚡
 
-My name is Roland Oechslin and I'm a Software SharePoint/Microsoft 365 Developer/Architect. I'm from switzerland, living in Bern and currently working for [Garaio Labs](https://www.garaio.com/)
+My name is Roland Oechslin and I'm a Software SharePoint/Microsoft 365 Developer/Architect. I'm from switzerland, living in Bern and currently working for [BLS](https://www.bls.ch/de/unternehmen) 
 
 <!--
 
