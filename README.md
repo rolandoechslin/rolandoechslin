@@ -1,6 +1,6 @@
 ### Hello folks ⚡
 
-My name is Roland Oechslin and I'm a Software Microsoft 365 Developer/Architect.
+My name is Roland Oechslin and I'm a Software Microsoft 365 Developer.
 
 <!--
 
